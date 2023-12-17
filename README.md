@@ -2,7 +2,7 @@
 
 ### Profile
 
-31 years old, graduated in Software Engineering with a general average over 9,2, he often reads books and scientific articles and believes that the best way to make decisions is through data, with a data-oriented culture being essential for companies and startups. Believes in communication and prefers the truth to be told independently, whether it will hurt or not, because only then can teams thrive. Prefers a million times to solve the biggest problem encountered than doing repetitive work. Finally, is a libertarian and believes that we must be free to make our decisions, as long as those decisions do not harm other people.
+32 years old, graduated in Software Engineering with a general average over 9,2, he often reads books and scientific articles and believes that the best way to make decisions is through data, with a data-oriented culture being essential for companies and startups. Believes in communication and prefers the truth to be told independently, whether it will hurt or not, because only then can teams thrive. Prefers a million times to solve the biggest problem encountered than doing repetitive work. Finally, is a libertarian and believes that we must be free to make our decisions, as long as those decisions do not harm other people.
 
 
 ### Objective
